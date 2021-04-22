@@ -4,7 +4,7 @@
 #run the MODULE of MAIN FILE and import mainfile as a library 
 
 import maincode as lbr 
-#importing the main file("code" is the name of the file I have used) as a library 
+#importing the main file("maincode" is the name of the file I have used) as a library 
 
 
 lbr.create("Mohit",25)
